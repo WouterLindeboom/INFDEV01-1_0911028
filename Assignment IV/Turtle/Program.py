@@ -39,7 +39,6 @@ def Program():
     turtle.shape("turtle")
     while True:
         a = get()
-        #print a
         if a == 119:
             turtle.forward(5)
         elif a == 97:
